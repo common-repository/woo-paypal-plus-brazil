@@ -1,0 +1,647 @@
+# Copyright (C) 2016 Elias Júnior
+# This file is distributed under the same license as the PayPal Plus Brazil for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Paypal Plus Brazil 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-paypal-plus-"
+"brazil\n"
+"POT-Creation-Date: 2017-08-23 18:23-0300\n"
+"PO-Revision-Date: 2017-08-23 18:25-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/views/html-admin-help-message.php:10
+#, php-format
+msgid ""
+"Help us keep the %s plugin free making a donation or rate %s on WordPress."
+"org. Thank you in advance!"
+msgstr ""
+"Ajuste-nos a manter o plugin %s gratuito fazendo uma doação ou avaliar %s no "
+"WordPress.org. Obrigado!"
+
+#: includes/admin/views/html-admin-help-message.php:10
+#: includes/admin/views/html-notice-missing-ecfb.php:17
+#: includes/admin/views/html-notice-missing-woocommerce.php:16
+#: includes/admin/views/html-notice-update.php:19
+msgid "PayPal Plus Brazil for WooCommerce"
+msgstr "PayPal Plus Brasil para WooCommerce"
+
+#: includes/admin/views/html-admin-help-message.php:11
+msgid "Make a donation"
+msgstr "Fazer uma doação"
+
+#: includes/admin/views/html-admin-help-message.php:11
+msgid "Make a review"
+msgstr "Fazer uma avaliação"
+
+#: includes/admin/views/html-admin-order-info.php:12
+msgid "Sale:"
+msgstr "Venda:"
+
+#: includes/admin/views/html-admin-order-info.php:13
+msgid "Sale fee:"
+msgstr "Taxa de venda:"
+
+#: includes/admin/views/html-admin-order-info.php:15
+msgid "Sandbox:"
+msgstr "Sandbox:"
+
+#: includes/admin/views/html-admin-order-info.php:15
+msgid "yes"
+msgstr "sim"
+
+#: includes/admin/views/html-admin-order-info.php:17
+msgid "Print details"
+msgstr "Imprimir detalhes"
+
+#: includes/admin/views/html-admin-order-info.php:20
+msgid "Payment not completed yet."
+msgstr "Pagamento não foi finalizado ainda."
+
+#: includes/admin/views/html-admin-page.php:13
+msgid ""
+"To use PayPal Plus you need to have an authorized account to this. Check "
+"this before using."
+msgstr ""
+"Para utilizar o PayPal Plus você precisa ter uma conta autorizada para isso. "
+"Verifique antes de usar."
+
+#: includes/admin/views/html-admin-page.php:20
+msgid "Success creating experience profile ID"
+msgstr "Sucesso ao criar um perfil de experiência."
+
+#: includes/admin/views/html-admin-page.php:24
+msgid "Error trying to create experience profile ID."
+msgstr "Erro ao tentar criar um perfil de experiência."
+
+#: includes/admin/views/html-admin-page.php:28
+msgid "Success creating webhook ID"
+msgstr "Sucesso ao criar webhook."
+
+#: includes/admin/views/html-admin-page.php:32
+msgid "Error trying to create webhook ID."
+msgstr "Erro ao tentar criar um webhook."
+
+#: includes/admin/views/html-notice-client-id-missing.php:11
+#: includes/admin/views/html-notice-client-secret-missing.php:11
+#: includes/admin/views/html-notice-currency-not-supported.php:11
+#: includes/admin/views/html-notice-experience-profile-id.php:11
+msgid "PayPal Plus Brazil Disabled"
+msgstr "PayPal Plus Brasil desativado"
+
+#: includes/admin/views/html-notice-client-id-missing.php:11
+msgid "You should inform your client ID."
+msgstr "Você deve informar o ID do Cliente."
+
+#: includes/admin/views/html-notice-client-secret-missing.php:11
+msgid "You should inform your client secret."
+msgstr "Você deve informar o Segredo do Cliente."
+
+#: includes/admin/views/html-notice-currency-not-supported.php:11
+#, php-format
+msgid ""
+"Currency <code>%s</code> is not supported. Works only with Brazilian Real."
+msgstr ""
+"A moeda <code>%s</code> não é suportada. Funciona somente com Real "
+"brasileiro."
+
+#: includes/admin/views/html-notice-experience-profile-id.php:11
+msgid ""
+"No experience profile id. Check client id and client secret and then save "
+"settings to create a new experience profile."
+msgstr ""
+"Nenhum perfil de experiência informado. Verifique o id e o segredo do "
+"cliente e salve as configurações para criar um novo perfil de experiência."
+
+#: includes/admin/views/html-notice-missing-ecfb.php:17
+msgid ""
+"depends on the last version of Extra Checkout Fields for Brazil to work!"
+msgstr ""
+"depende da última versão do Extra Checkout Fields for Brazil para funcionar!"
+
+#: includes/admin/views/html-notice-missing-ecfb.php:23
+msgid "Active Extra Checkout Fields for Brazil"
+msgstr "Ativar Extra Checkout Fields for Brazil"
+
+#: includes/admin/views/html-notice-missing-ecfb.php:33
+msgid "Install Extra Checkout Fields for Brazil"
+msgstr "Instalar Extra Checkout Fields for Brazil"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:16
+msgid "depends on the last version of WooCommerce to work!"
+msgstr "depende da última versão do WooCommerce para funcionar!"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:19
+msgid "Activate WooCommerce"
+msgstr "Ativar WooCommerce"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:27
+msgid "Install WooCommerce"
+msgstr "Instalar WooCommerce"
+
+#: includes/admin/views/html-notice-update.php:19
+msgid "will not be updated anymore! Please update to the official extension."
+msgstr ""
+"não vai ser atualizado mais! Por favor, atualize para a extensão oficial."
+
+#: includes/admin/views/html-notice-update.php:25
+#, fuzzy
+#| msgid "Enable PayPal Plus Brazil"
+msgid "Activate PayPal Plus Brasil"
+msgstr "Ativar PayPal Plus Brasil"
+
+#: includes/admin/views/html-notice-update.php:35
+#, fuzzy
+#| msgid "Enable PayPal Plus Brazil"
+msgid "Install PayPal Plus Brasil"
+msgstr "Ativar PayPal Plus Brasil"
+
+#: includes/admin/views/html-notice-update.php:38
+#, php-format
+msgid ""
+"Use <a href=\"%s\">our migration tool</a> or deactivate this plugin and <a "
+"href=\"%s\">configure the PayPal Plus again.</a>"
+msgstr ""
+"Use <a href=\"%s\">nossa ferramenta de migração</a> ou desative o plugin e "
+"<a href=\"%s\">faça a configuração do PayPal Plus</a> novamente."
+
+#: includes/admin/views/html-page-migration-tool.php:8
+#: woo-paypal-plus-brazil.php:96 woo-paypal-plus-brazil.php:97
+#, fuzzy
+#| msgid "PayPal Plus Brazil"
+msgid "PayPal Plus Migration Tool"
+msgstr "PayPal Plus Brasil"
+
+#: includes/admin/views/html-page-migration-tool.php:9
+msgid ""
+"We will migrate the settings to the official plugin. The official plugin "
+"should be installed to work."
+msgstr ""
+"Nós vamos migrar as configurações para o plugin oficial. O plugin oficial "
+"precisa estar instalado para funcionar."
+
+#: includes/admin/views/html-page-migration-tool.php:22
+msgid "Migrate"
+msgstr "Migrar"
+
+#: includes/class-wc-paypal-plus-brazil-api.php:257
+msgid "Discount"
+msgstr "Desconto"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:21
+#: includes/class-wc-paypal-plus-brazil-order-info.php:51
+msgid "PayPal Plus Brazil"
+msgstr "PayPal Plus Brasil"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:22
+msgid "Accept payments by credit card using PayPal Plus."
+msgstr "Aceitar pagamentos por cartão de crédito usando PayPal Plus."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:23
+msgid "Confirm payment"
+msgstr "Confirmar pagamento"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:176
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:177
+msgid ""
+"PayPal Plus is not active for this PayPal account. Please contact us and try "
+"another payment method."
+msgstr ""
+"PayPal Plus não está ativo para essa conta PayPal. Por favor entre em "
+"contato conosco e tente outro método de pagamento."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:178
+msgid "Please fill all required fields."
+msgstr "Preencha todos os campos obrigatórios."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:179
+msgid "Unknown error. Please contact us and try another payment method."
+msgstr ""
+"Erro desconhecido. Por favor entre em contato conosco e tente outro método "
+"de pagamento."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:180
+msgid ""
+"Unknown error in PayPal response. Please contact us and try another payment "
+"method."
+msgstr ""
+"Erro desconhecido na resposta do PayPal. Por favor entre em contato conosco "
+"e tente outro método de pagamento."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:194
+msgid "System Status &gt; Logs"
+msgstr "Status do Sistema &gt; Logs"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:206
+msgid "Enable/Disable"
+msgstr "Ativar/Desativar"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:208
+msgid "Enable PayPal Plus Brazil"
+msgstr "Ativar PayPal Plus Brasil"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:212
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:214
+msgid "This controls the title which the user sees during checkout."
+msgstr "Isso controla o título que o usuário verá durante o checkout."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:216
+msgid "Credit card"
+msgstr "Cartão de crédito"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:219
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:221
+msgid "This controls the description which the user sees during checkout."
+msgstr "Isso controla a descrição que o usuário verá durante o checkout."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:222
+msgid "Use your credit card to checkout."
+msgstr "Utilize o seu cartão de crédito para efetuar a sua compra."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:225
+msgid "PayPal Plus Sandbox"
+msgstr "Sandbox PayPal Plus"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:227
+msgid "Enable PayPal Plus Sandbox"
+msgstr "Ativar Sandbox PayPal Plus"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:230
+msgid "PayPal Plus Sandbox can be used to test the payments."
+msgstr "Sandbox PayPal Plus pode ser usado para testar pagamentos."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:233
+msgid "PayPal Plus Client ID"
+msgstr "PayPal Plus ID do Cliente"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:235
+msgid "Please enter your PayPal Plus client ID."
+msgstr "Informe o cliente ID do PayPal Plus"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:239
+msgid "PayPal Plus Client Secret"
+msgstr "PayPal Plus Cliente Secreto"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:241
+msgid "Please enter your PayPal Plus Client Secret."
+msgstr "Informe o cliente secreto do PayPal Plus"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:245
+msgid "PayPal Plus Experience Profile ID"
+msgstr "PayPal Plus ID Perfil de Experiência"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:247
+msgid ""
+"Please enter your PayPal Plus Experience Profile ID. Leave empty if you "
+"don't have, the API will get one."
+msgstr ""
+"Informe o ID Perfil de Experiência do PayPal Plus. Deixe em branco caso você "
+"não tenha, pois a API irá obter uma."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:251
+msgid "PayPal Plus Webhook ID"
+msgstr "Paypal Plus ID do Webhook"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:253
+msgid ""
+"Please enter your PayPal Webhook ID. Leave empty if you don't have, the API "
+"will get one."
+msgstr ""
+"Informe o ID do Webhook do PayPal. Deixe em branco caso você não tenha, a "
+"API irá obter uma."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:257
+msgid "Design"
+msgstr "Design"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:262
+msgid "Loading background color"
+msgstr "Cor de fundo do carregamento"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:264
+msgid "Please enter hex color to loading background. Eg.: #CCCCCC"
+msgstr ""
+"Informe o valor hexadecimal da cor de fundo do carregamento. Ex.: #CCCCCC"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:268
+msgid "Loading background opacity"
+msgstr "Opacidade da cor de fundo do carregamento"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:270
+msgid "Please enter a percentage value to background opacity. Eg.: 50%."
+msgstr "Informe a porcentagem da cor de fundo do carregamento. Ex.: 50%."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:274
+msgid "Gateway Testing"
+msgstr "Testes do Gateway"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:279
+msgid "Debug Log"
+msgstr "Log de Debug"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:281
+msgid "Enable logging"
+msgstr "Ativar log"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:283
+#, php-format
+msgid "Log PayPal Plus Brazil events, such as API requests, inside %s"
+msgstr "Registra eventos do PayPal Plus Brasil, como requisições da API, em %s"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:354
+msgid "Missing PayPal payment data."
+msgstr "Faltando informações de pagamento do PayPal."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:366
+msgid "Payment denied."
+msgstr "Pagamento recusado."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:370
+msgid "Waiting payment confirmation."
+msgstr "Aguardando confirmação de pagamento."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:372
+msgid "Could not execute the payment."
+msgstr "Não foi possível executar o pagamento."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:665
+msgid "Refund Failed: No amount"
+msgstr "Falha no reembolso: nenhum valor"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:672
+msgid "Refund Failed: No sale ID"
+msgstr "Falha no reembolso: nenhum ID de pagamento"
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:678
+#, fuzzy, php-format
+#| msgid "Order refunded ID: %s. Total refunded: %s."
+msgid "Order refunded ID: %s. Total refunded: %s."
+msgstr "ID do reembolso: %S. Total do reembolso: %s."
+
+#: includes/class-wc-paypal-plus-brazil-gateway.php:683
+msgid "Refund Failed."
+msgstr "Falha no reembolso"
+
+#: includes/class-wc-paypal-plus-brazil-ipn.php:67
+msgid "PayPal Plus: Transaction paid."
+msgstr "PayPal Plus: transação paga."
+
+#: includes/class-wc-paypal-plus-brazil-ipn.php:85
+msgid ""
+"PayPal Plus: The transaction was rejected by the card company or by fraud."
+msgstr "PayPal Plus: a transação foi rejeitada pelo cartão ou por fraude."
+
+#: includes/class-wc-paypal-plus-brazil-ipn.php:107
+msgid "PayPal Plus: The transaction was refunded."
+msgstr "PayPal Plus: a transação foi reembolsada."
+
+#: includes/class-wc-paypal-plus-brazil-ipn.php:122
+msgid "PayPal Plus: The transaction was reversed."
+msgstr "PayPal Plus: a transação foi revertida."
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:3
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:9
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:14
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:16
+msgid "Hello World"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:7
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:12
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:17
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:7
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:12
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:17
+msgctxt "verb"
+msgid "Post"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:20
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:24
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:8
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:25
+#, php-format
+msgid "%d apple"
+msgid_plural "%d apples"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:25
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:22
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:26
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:22
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:26
+#, php-format
+msgctxt "noun, job positions"
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/grunt-wp-i18n/test/fixtures/basic-theme/exclude/file.php:3
+#: node_modules/grunt-wp-i18n/test/fixtures/plugin-include/plugin-include.php:6
+msgid "Exclude"
+msgstr ""
+
+#: node_modules/grunt-wp-i18n/test/fixtures/plugin-include/include/file.php:2
+msgid "Include"
+msgstr ""
+
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/add-domain.php:2
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:2
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:3
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:4
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:2
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:3
+msgid "String"
+msgstr ""
+
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:6
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:7
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:8
+msgctxt "a string"
+msgid "String"
+msgstr ""
+
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:9
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:10
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:11
+#, php-format
+msgid "1 Star"
+msgid_plural "%s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: A single line translators comment.
+#: node_modules/grunt-wp-i18n/test/fixtures/translator-comments/translator-comments.php:7
+msgid "A"
+msgstr ""
+
+#. translators: A
+#. multiline
+#. translators
+#. comment.
+#.
+#: node_modules/grunt-wp-i18n/test/fixtures/translator-comments/translator-comments.php:15
+msgid "B"
+msgstr ""
+
+#: templates/checkout-form.php:20
+msgid "Some error trying to generate payment field. Please refresh the page."
+msgstr ""
+"Houve um erro ao gerar os campos de pagamento. Por favor, atualize a página."
+
+#: templates/checkout-form.php:23
+msgid "Please, fill all the required fields before continue payment."
+msgstr ""
+"Por favor, preencha todos os campos obrigatórios antes de continuar para o "
+"pagamento."
+
+#: templates/checkout-form.php:24
+msgid "Click here"
+msgstr "Clique aqui"
+
+#: templates/checkout-form.php:24
+msgid "in case you already filled everything."
+msgstr "caso você já tenha preenchido tudo."
+
+#: woo-paypal-plus-brazil.php:133
+msgid "Settings"
+msgstr "Configurações"
+
+#. Plugin Name of the plugin/theme
+msgid "Woo PayPal Plus Brazil"
+msgstr "Woo PayPal Plus Brasil"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/eliasjnior/woo-paypal-plus-brazil/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easily enable PayPal Plus Checkout (Brazil)"
+msgstr "Ativa facilmente o checkout do PayPal Plus (Brasil)"
+
+#. Author of the plugin/theme
+msgid "Elias Júnior"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://eliasjrweb.com/"
+msgstr ""
+
+#~ msgid "PayPal Plus: The banking ticket was issued but not paid yet."
+#~ msgstr "PayPal Plus: "
+
+#~ msgid "Loading PayPal..."
+#~ msgstr "Carregando PayPal..."
+
+#~ msgid "PayPal Plus"
+#~ msgstr "PayPal Plus"
+
+#~ msgid "Pay via PayPal Plus"
+#~ msgstr "Pagar por PayPal Plus"
+
+#~ msgid "Payment received and confirmed by PayPal."
+#~ msgstr "Pagamento recebido e confirmado pelo PayPal."
+
+#~ msgid "You should inform your email address."
+#~ msgstr "Você deve informar o seu endereço de email."
